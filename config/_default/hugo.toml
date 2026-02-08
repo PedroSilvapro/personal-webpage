@@ -4,7 +4,7 @@
 
 theme = "congo"
 
-baseURL = "https://pedrosilva.pro/"
+baseURL = "https://personal-webpage-six-pi.vercel.app/"
 
 defaultContentLanguage = "en"
 
