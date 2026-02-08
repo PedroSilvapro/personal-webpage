@@ -1,0 +1,20 @@
+languageCode = "pt-pt"
+languageName = "Português"
+languageDirection = "ltr"
+weight = 2
+
+title = "Pedro Silva"
+
+[params]
+  dateFormat = "2006 January 2"
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Pedro Silva"
+  image = "img/pedro.jpeg"
+  headline = "Estudante de Mestrado em Engenharia Eletrotécnica e de Computadores"
+  # bio = "A little bit about you"
+  links = [
+     { github = "https://github.com/PedroSilvapro" }
+  ]
